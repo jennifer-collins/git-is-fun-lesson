@@ -1,0 +1,6 @@
+# ask git to ignore all of these files/folders (do NOT track them and include them in the project history)
+
+.vscode/
+.DS_Store
+*.pdf
+*.zip
